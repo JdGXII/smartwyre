@@ -53,6 +53,7 @@ This README provides a guide on how to set up and run the test project on differ
 
 ### Potential Improvements
 
+- Setting up the Page Object Model pattern for better code maintenance.
 - Setting up an automation framework like Cucumber for better collaboration.
 - Integration with CI/CD pipelines for automated test execution.
 - Parallel test execution to speed up the testing process.
